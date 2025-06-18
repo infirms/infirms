@@ -1,5 +1,3 @@
-# infirms
-
 C++ & Zig Developer, doing some Reverse Enginnering from time to time.
 
 Also working with embedded and DMA hardware.
