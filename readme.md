@@ -1,4 +1,4 @@
-C++ & Zig Developer, doing some Reverse Enginnering from time to time.
+C++ & Zig Developer, doing some Reverse Engineering from time to time.
 
 Also working with embedded and DMA hardware.
 
