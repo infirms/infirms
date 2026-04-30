@@ -1,6 +1,8 @@
 C/C++ & Zig Developer, doing some Reverse Engineering from time to time. Source Engine tinkerer.
 
 Also working with embedded and DMA hardware.
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,zig,lua,linux,docker,git,python)](https://skillicons.dev)
 <p>
     <img src="https://komarev.com/ghpvc/?username=infirms&color=green"/>
 </p>
